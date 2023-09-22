@@ -1,0 +1,47 @@
+.FlexContainer{
+   
+}
+nav{
+    background-color: ;
+    color: whitesmoke;
+    background-color: #052962;
+    
+    
+}
+
+a{ 
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Divderecho{
+    margin: left 10%;;
+    width: 20%;
+    margin-right: 10%;
+    justify-content: center;
+}
+.Divcenter{
+ margin: left 10%;;
+ width: 70%;
+}
+.Divizquierdo{
+    margin: left 10%;;
+ width: 10%;
+}
+.div1{
+    margin-left: 15%;
+    background-color: #ab0613;
+    color: #f1d4d7;
+}
+.FlexContainer2{
+    display: flex;
+}
+.FlexContainer3{
+    display: flex;
+}
+.flexContainer4{
+    
+    display: flex;
+}
+.hTwo{
+    color: red;
+}

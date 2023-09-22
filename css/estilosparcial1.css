@@ -1,0 +1,59 @@
+.FlexContainer{
+   
+}
+nav{
+    background-color: ;
+    color: whitesmoke;
+    background-color: #052962;
+    
+    
+}
+a{ 
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+divIzquierdo{
+    width: 50%;
+    text-align: center;
+    background-color: purple;
+    color: white;
+    font-size: 400%;
+    margin-right: 2%;
+}
+
+.divDerecho{
+    width: 50%;
+    background-color: purple;
+    color: white;
+    margin-top: 5%;
+}
+
+
+
+button{
+    background-color: antiquewhite;
+    color: grey;
+}
+
+.divD2{
+    margin-top: 10%;
+}
+
+.divI2{
+    width: 550px;
+    margin-left: 8%;
+}
+
+.div1{
+background-color: white;
+color: black;
+
+}
+.div2{
+    background-color: white;
+    color: black;
+}
+.div3{
+    background-color:  white;
+    color: black;
+}
